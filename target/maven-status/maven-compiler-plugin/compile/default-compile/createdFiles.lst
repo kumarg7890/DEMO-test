@@ -1,0 +1,7 @@
+com\example\aspect\LoggingAspect.class
+com\example\service\VehicleService.class
+com\example\dto\Vehicle.class
+com\example\DemoApplication.class
+com\example\service\DBServiceA.class
+com\example\service\VehicleServiceImpl.class
+com\example\service\HttpServiceB.class
